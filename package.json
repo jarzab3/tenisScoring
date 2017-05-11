@@ -1,0 +1,13 @@
+{
+  "name": "tennis",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Adam",
+  "license": "MIT",
+  "dependencies": {
+    "mocha": "^3.3.0"
+  },
+  "scripts": {
+    "test": "mocha"
+  }
+}
